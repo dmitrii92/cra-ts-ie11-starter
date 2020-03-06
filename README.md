@@ -2,7 +2,7 @@
 
 # cra-ts-ie11-starter
 
-Starter for Create React App on TypeScript which support Internet Explorer 11.
+Starter for [Create React App](https://github.com/facebook/create-react-app) on TypeScript which support Internet Explorer 11.
 
 This project created with :
 
@@ -45,7 +45,6 @@ Also delete unnecessary files.
 
 - [Node.js](https://nodejs.org/en/download/package-manager/)
 - [TypeScript](https://www.typescriptlang.org/)
-- To work in VSCode recommended to use [plugin](https://github.com/styled-components/vscode-styled-components)
 
 ---
 
