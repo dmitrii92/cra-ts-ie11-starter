@@ -10,15 +10,15 @@ This project created with :
 npx create-react-app cra-ts-ie11-starter --template typescript
 ```
 
-Add ie11:
+Added ie11 support:
 
 ```
     npm install react-app-polyfill
 ```
 
-Add "import 'react-app-polyfill/ie11';" to index.tsx
+Added "import 'react-app-polyfill/ie11';" to index.tsx
 
-Also delete unnecessary files.
+Also unnecessary files deleted.
 
 ## Feature tags
 
